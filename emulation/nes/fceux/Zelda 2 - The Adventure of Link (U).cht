@@ -1,7 +1,13 @@
 S0700:09:Lives
-S:0755:01:Auto Experience For Next
-S0774:7f:Life Meter
-S0773:7f:Magic Meter
+S0774:e0:Life Meter
+S0773:e0:Magic Meter
+S0784:07:Containers: Hearts
+S0783:07:Containers: Magic
+S0777:07:Level: Attack
+S0778:07:Level: Magic
+S0779:07:Level: Life
+S:0794:06:Item: Crystals
+S:0793:09:Item: Keys
 S0785:01:Item: Candle
 S0786:01:Item: Glove
 S0787:01:Item: Raft
@@ -10,10 +16,7 @@ S0789:01:Item: Flute
 S078a:01:Item: Cross
 S078b:01:Item: Hammer
 S078c:01:Item: Magic Key
-S:0794:06:Crystals
-S:0793:09:Keys
-S0518:03:Invincible Modifier
-S0798:10:Have Trophy
+S0798:10:Quest Item: Trophy
 S077b:01:Spell: Shield
 S077c:01:Spell: Jump
 S077d:01:Spell: Life
@@ -22,6 +25,9 @@ S077f:01:Spell: Fire
 S0780:01:Spell: Reflect
 S0781:01:Spell: Spell
 S0782:01:Spell: Thunder
+S:0518:03:Invincible
+S:076f:01:Shield Activated
+S:0755:01:Auto Experience For Next
 S:0494:00:Death Modifier
 S:050c:02:Death Sprite Modifier
 S:03e6:02:Cannot Fall Off Ledge
@@ -31,3 +37,6 @@ S:07fd:01:Cool Music Hack 3
 S:0707:02:Background Music Modifier
 S:00f7:80:Movement Modifier
 S:07db:04:Unknown (Got Trophy)
+S:076c:00:Weird??
+S:0736:00:Weird??
+S:0737:00:Weird??
