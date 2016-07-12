@@ -7,7 +7,7 @@ S0777:07:Level: Attack
 S0778:07:Level: Magic
 S0779:07:Level: Life
 S:0794:06:Item: Crystals
-S0793:09:Item: Keys
+S:0793:09:Item: Keys
 S0785:01:Item: Candle
 S0786:01:Item: Glove
 S0787:01:Item: Raft
@@ -25,7 +25,6 @@ S077f:01:Spell: Fire
 S0780:01:Spell: Reflect
 S0781:01:Spell: Spell
 S0782:01:Spell: Thunder
-S:0518:03:Invincible
 S074a:00:No Wait Spell Cast
 S00d0:01:Jump Spell Activated
 S:0755:01:Auto Experience For Next
@@ -39,6 +38,16 @@ S:0707:02:Background Music Modifier
 S:07df:00:Spell Cast Sound
 S:00f7:80:Movement Modifier
 S:0706:01:Torches Disappear Zelda
+S0513:00:Baddie Hide 1 of 10
+S0514:00:Baddie Hide 2 of 10
+S0515:00:Baddie Hide 3 of 10
+S0516:00:Baddie Hide 4 of 10
+S050e:00:Baddie Hide 5 of 10
+S050f:00:Baddie Hide 6 of 10
+S0510:00:Baddie Hide 7 of 10
+S0511:00:Baddie Hide 8 of 10
+S0512:00:Baddie Hide 9 of 10
+S0518:00:Baddie Hide 10 of 10
 S:07db:04:Unknown (Got Trophy)
 S:076c:00:Weird??
 S:0736:00:Weird??
