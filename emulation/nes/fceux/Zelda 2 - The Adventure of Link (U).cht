@@ -1,5 +1,5 @@
-S:0707:02:Background Music Modifier
-S:00f7:80:Movement Modifier
+S0700:09:Lives
+S:0755:01:Auto Experience For Next
 S0774:7f:Life Meter
 S0773:7f:Magic Meter
 S0785:01:Item: Candle
@@ -12,15 +12,7 @@ S078b:01:Item: Hammer
 S078c:01:Item: Magic Key
 S:0794:06:Crystals
 S:0793:09:Keys
-S:07fe:03:Cool Music Hack 1
-S:07fb:03:Cool Music Hack 2
-S:07fd:01:Cool Music Hack 3
-S:0755:01:Auto Experience For Next
 S0518:03:Invincible Modifier
-S:0494:00:Death Modifier
-S:050c:02:Death Sprite Modifier
-S:03e6:02:Cannot Fall Off Ledge
-S:07db:04:Unknown (Got Trophy)
 S0798:10:Have Trophy
 S077b:01:Spell: Shield
 S077c:01:Spell: Jump
@@ -30,3 +22,12 @@ S077f:01:Spell: Fire
 S0780:01:Spell: Reflect
 S0781:01:Spell: Spell
 S0782:01:Spell: Thunder
+S:0494:00:Death Modifier
+S:050c:02:Death Sprite Modifier
+S:03e6:02:Cannot Fall Off Ledge
+S:07fe:03:Cool Music Hack 1
+S:07fb:03:Cool Music Hack 2
+S:07fd:01:Cool Music Hack 3
+S:0707:02:Background Music Modifier
+S:00f7:80:Movement Modifier
+S:07db:04:Unknown (Got Trophy)
