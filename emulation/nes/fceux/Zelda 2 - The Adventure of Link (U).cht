@@ -1,6 +1,6 @@
 S0700:09:Lives
-S0774:e0:Life Meter
-S0773:e0:Magic Meter
+S0774:df:Life Meter
+S0773:df:Magic Meter
 S0784:07:Containers: Hearts
 S0783:07:Containers: Magic
 S0777:07:Level: Attack
@@ -28,6 +28,7 @@ S0782:01:Spell: Thunder
 S074a:00:No Wait Spell Cast
 S00d0:01:Jump Spell Activated
 S:0755:01:Auto Experience For Next
+S0518:03:Invincible
 S:0494:00:Death Modifier
 S:050c:02:Death Sprite Modifier
 S:03e6:02:Cannot Fall Off Ledge
@@ -48,7 +49,11 @@ S0510:00:Baddie Hide 7 of 10
 S0511:00:Baddie Hide 8 of 10
 S0512:00:Baddie Hide 9 of 10
 S0518:00:Baddie Hide 10 of 10
+S:057d:ff:Height Hack
+S:0563:09:Terrain Type
 S:07db:04:Unknown (Got Trophy)
 S:076c:00:Weird??
 S:0736:00:Weird??
 S:0737:00:Weird??
+S:07db:04:Potion?
+S:079a:40:Potion?
