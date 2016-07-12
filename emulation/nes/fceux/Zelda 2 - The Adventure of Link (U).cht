@@ -6,7 +6,7 @@ S0783:07:Containers: Magic
 S0777:07:Level: Attack
 S0778:07:Level: Magic
 S0779:07:Level: Life
-S:0794:06:Item: Crystals
+S:0794:00:Item: Crystals Aquired
 S:0793:09:Item: Keys
 S0785:01:Item: Candle
 S0786:01:Item: Glove
@@ -36,7 +36,6 @@ S:07fe:03:Cool Music Hack 1
 S:07fb:03:Cool Music Hack 2
 S:07fd:01:Cool Music Hack 3
 S:0707:02:Background Music Modifier
-S:07df:00:Spell Cast Sound
 S:00f7:80:Movement Modifier
 S:0706:01:Torches Disappear Zelda
 S0513:00:Baddie Hide 1 of 10
@@ -49,8 +48,9 @@ S0510:00:Baddie Hide 7 of 10
 S0511:00:Baddie Hide 8 of 10
 S0512:00:Baddie Hide 9 of 10
 S0518:00:Baddie Hide 10 of 10
-S:057d:ff:Height Hack
+S:057d:03:Height Hack
 S:0563:09:Terrain Type
+S7d8f:04:Walk Over Spider
 S:07db:04:Unknown (Got Trophy)
 S:076c:00:Weird??
 S:0736:00:Weird??
