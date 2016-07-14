@@ -1,4 +1,6 @@
 S:06f6:10:1st Cave Empty
+S:067d:ff:Rupee Counter Add
+S:067e:00:Rupee Counter Subtract
 S0657:06:Sword Modifier (1 - 3)
 S0670:ff:Life Meter Display
 S066f:ff:Life Meter
@@ -11,15 +13,14 @@ S065d:01:Item: Meat
 S065e:02:Item: Potion Modifier
 S065f:01:Item: Magic Wand
 S0660:01:Item: Raft
-S0661:01:Iteml: Book
+S0661:01:Item: Book
 S0662:02:Item: Ring Modifier
 S0663:01:Item: Step Ladder
 S:0664:01:Item: Master Key
 S0665:01:Item: Bracelet
 S:0674:01:Item: Boomerang
 S0675:01:Item: Magic Boomerang
-S:067d:ff:Rupee Counter Add
-S:067e:00:Rupee Counter Subtract
+S066e:09:Item: Keys
 S:0656:02:Active Item In B
 S:0350:00:Enemy #1 Modifier
 S:0351:00:Enemy #2 Modifier
@@ -33,4 +34,3 @@ S:0358:00:Enemy #9 Modifier
 S:0359:00:Enemy #10 Modifier
 S:035a:00:Enemy #11 Modifier
 S:034e:00:Area Type??
-S066e:09:Keys
