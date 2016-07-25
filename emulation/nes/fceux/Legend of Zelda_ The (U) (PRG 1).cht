@@ -7,6 +7,7 @@ S:0670:ff:Life Hearts Meter
 S066f:23:Life Hearts Hit Modifier
 S0671:ff:Triforce Modifier
 S04f0:04:Invincible Modifier (0 - 4)
+S066c:01:Timer Freeze
 S:0656:2d:Button B Clip Hack
 S0658:10:Item: Bombs Modifier
 S0659:02:Item: Arrow Modifier
@@ -36,6 +37,7 @@ S:0357:00:Enemy #8 Modifier
 S:0358:00:Enemy #9 Modifier
 S:0359:00:Enemy #10 Modifier
 S:035a:00:Enemy #11 Modifier
+S:0406:01:Enemy Form Modifier
 S:06f6:10:1st Cave Empty
 S:034e:00:Area Type??
 S:03e4:00:Animation Toggle Hack
