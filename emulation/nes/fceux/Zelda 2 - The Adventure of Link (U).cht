@@ -26,8 +26,8 @@ S077f:01:Spell: Fire
 S0780:01:Spell: Reflect
 S0781:01:Spell: Spell
 S0782:01:Spell: Thunder
-S074a:00:No Wait Spell Cast
-S07f1:00:Cast Thunder Silent
+S074a:00:Spell Cast No Wait
+S07f1:00:Spell Cast Silent
 S00d0:01:Jump Spell Activated
 S:0796:10:Downward Stab Only
 S:0796:0f:Upward Stab Only
