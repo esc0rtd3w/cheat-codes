@@ -27,6 +27,7 @@ S0780:01:Spell: Reflect
 S0781:01:Spell: Spell
 S0782:01:Spell: Thunder
 S074a:00:No Wait Spell Cast
+S07f1:00:Cast Thunder Silent
 S00d0:01:Jump Spell Activated
 S:0796:10:Downward Stab Only
 S:0796:0f:Upward Stab Only
@@ -39,6 +40,7 @@ S:050c:02:Death Sprite Modifier
 S:00b5:02:Instant Death
 S:03e6:02:Cannot Fall Off Ledge
 S:01ef:50:Fall Through Floor
+S:00bb:00:Bubbles Toggle
 S:00b5:02:Glitch Town
 S:07fe:03:Cool Music Hack 1
 S:07fb:03:Cool Music Hack 2
@@ -46,18 +48,21 @@ S:07fd:01:Cool Music Hack 3
 S:0707:02:Background Music Modifier
 S:00f7:80:Movement Modifier
 S:0706:01:Torches Disappear Zelda
-S0513:00:Baddie Hide 1 of 10
-S0514:00:Baddie Hide 2 of 10
-S0515:00:Baddie Hide 3 of 10
-S0516:00:Baddie Hide 4 of 10
-S050e:00:Baddie Hide 5 of 10
-S050f:00:Baddie Hide 6 of 10
-S0510:00:Baddie Hide 7 of 10
-S0511:00:Baddie Hide 8 of 10
-S0512:00:Baddie Hide 9 of 10
-S0518:00:Baddie Hide 10 of 10
+S:0513:00:Baddie Hide 1 of 10
+S:0514:00:Baddie Hide 2 of 10
+S:0515:00:Baddie Hide 3 of 10
+S:0516:00:Baddie Hide 4 of 10
+S:050e:00:Baddie Hide 5 of 10
+S:050f:00:Baddie Hide 6 of 10
+S:0510:00:Baddie Hide 7 of 10
+S:0511:00:Baddie Hide 8 of 10
+S:0512:00:Baddie Hide 9 of 10
+S:0518:00:Baddie Hide 10 of 10
 S:057d:03:Height Hack
-S:0563:09:Terrain Type
+S:0563:09:OW Battle Area
+S:0563:00:OW Sprites Pac-Man Mode
+S:0563:19:OW Battle Area Zelda
+S:0563:29:OW Battle Area Zelda 2
 S:7d8f:04:Walk Over Spider
 S:07db:04:Unknown (Got Trophy)
 S:076c:00:Weird??
