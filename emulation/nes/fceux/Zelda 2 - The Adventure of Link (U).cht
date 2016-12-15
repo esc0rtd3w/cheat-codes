@@ -17,6 +17,7 @@ S078a:01:Item: Cross
 S078b:01:Item: Hammer
 S078c:01:Item: Magic Key
 S0798:10:Quest Item: Trophy
+S079c:29:Quest Item: Kid
 S077b:01:Spell: Shield
 S077c:01:Spell: Jump
 S077d:01:Spell: Life
@@ -27,27 +28,34 @@ S0781:01:Spell: Spell
 S0782:01:Spell: Thunder
 S074a:00:No Wait Spell Cast
 S00d0:01:Jump Spell Activated
+S:0796:10:Downward Stab Only
+S:0796:0f:Upward Stab Only
+S0796:ff:Upward/Downward Stab
 S:0755:01:Auto Experience For Next
+S:0775:10:Next XP Multiplier??
 S0518:03:Invincible
 S:0494:00:Death Modifier
 S:050c:02:Death Sprite Modifier
+S:00b5:02:Instant Death
 S:03e6:02:Cannot Fall Off Ledge
+S:01ef:50:Fall Through Floor
+S:00b5:02:Glitch Town
 S:07fe:03:Cool Music Hack 1
 S:07fb:03:Cool Music Hack 2
 S:07fd:01:Cool Music Hack 3
 S:0707:02:Background Music Modifier
 S:00f7:80:Movement Modifier
 S:0706:01:Torches Disappear Zelda
-S:0513:00:Baddie Hide 1 of 10
-S:0514:00:Baddie Hide 2 of 10
-S:0515:00:Baddie Hide 3 of 10
-S:0516:00:Baddie Hide 4 of 10
-S:050e:00:Baddie Hide 5 of 10
-S:050f:00:Baddie Hide 6 of 10
-S:0510:00:Baddie Hide 7 of 10
-S:0511:00:Baddie Hide 8 of 10
-S:0512:00:Baddie Hide 9 of 10
-S:0518:00:Baddie Hide 10 of 10
+S0513:00:Baddie Hide 1 of 10
+S0514:00:Baddie Hide 2 of 10
+S0515:00:Baddie Hide 3 of 10
+S0516:00:Baddie Hide 4 of 10
+S050e:00:Baddie Hide 5 of 10
+S050f:00:Baddie Hide 6 of 10
+S0510:00:Baddie Hide 7 of 10
+S0511:00:Baddie Hide 8 of 10
+S0512:00:Baddie Hide 9 of 10
+S0518:00:Baddie Hide 10 of 10
 S:057d:03:Height Hack
 S:0563:09:Terrain Type
 S:7d8f:04:Walk Over Spider
@@ -57,12 +65,8 @@ S:0736:00:Weird??
 S:0737:00:Weird??
 S:07db:04:Potion?
 S:079a:40:Potion?
-S:00b5:02:Glitch Town
-S:00b5:02:Instant Death
-S:00f7:00:DPAD Movement
 S:00cd:00:X Position 1 Enemies
 S:00ce:00:X Position 2 Link
-S:01ef:50:Fall Through Floor
 S:020e:00:Link Sprite Color 1
 S:0073:34:OW Tile Type
 S:0201:00:Link OW Sprite
