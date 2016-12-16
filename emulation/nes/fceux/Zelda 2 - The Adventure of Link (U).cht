@@ -28,6 +28,7 @@ S0781:01:Spell: Spell
 S0782:01:Spell: Thunder
 S074a:00:Spell Cast No Wait
 S07f1:00:Spell Cast Silent
+S:0749:07:Spell Active Item
 S00d0:01:Jump Spell Activated
 S:0796:10:Downward Stab Only
 S:0796:0f:Upward Stab Only
@@ -42,37 +43,42 @@ S:03e6:02:Cannot Fall Off Ledge
 S:01ef:50:Fall Through Floor
 S:00bb:00:Bubbles Toggle
 S:00b5:02:Glitch Town
-S:07fe:03:Cool Music Hack 1
-S:07fb:03:Cool Music Hack 2
-S:07fd:01:Cool Music Hack 3
 S:0707:02:Background Music Modifier
 S:00f7:80:Movement Modifier
 S:0706:01:Torches Disappear Zelda
-S:0513:00:Baddie Hide 1 of 10
-S:0514:00:Baddie Hide 2 of 10
-S:0515:00:Baddie Hide 3 of 10
-S:0516:00:Baddie Hide 4 of 10
-S:050e:00:Baddie Hide 5 of 10
-S:050f:00:Baddie Hide 6 of 10
-S:0510:00:Baddie Hide 7 of 10
-S:0511:00:Baddie Hide 8 of 10
-S:0512:00:Baddie Hide 9 of 10
-S:0518:00:Baddie Hide 10 of 10
 S:057d:03:Height Hack
-S:0563:09:OW Battle Area
-S:0563:00:OW Sprites Pac-Man Mode
-S:0563:19:OW Battle Area Zelda
-S:0563:29:OW Battle Area Zelda 2
 S:7d8f:04:Walk Over Spider
-S:07db:04:Unknown (Got Trophy)
-S:076c:00:Weird??
-S:0736:00:Weird??
-S:0737:00:Weird??
-S:07db:04:Potion?
-S:079a:40:Potion?
 S:00cd:00:X Position 1 Enemies
 S:00ce:00:X Position 2 Link
 S:020e:00:Link Sprite Color 1
 S:0073:34:OW Tile Type
-S:0201:00:Link OW Sprite
-S:0202:21:Link OW Invisible
+S:00c8:ff:Exit Area
+S:00b6:01:Fairy In Corner
+S:0513:00:OW: Baddie Hide 1
+S:0514:00:OW: Baddie Hide 2
+S:0515:00:OW: Baddie Hide 3
+S:0516:00:OW: Baddie Hide 4
+S:050e:00:OW: Baddie Hide 5
+S:050f:00:OW: Baddie Hide 6
+S:0510:00:OW: Baddie Hide 7
+S:0511:00:OW: Baddie Hide 8
+S:0512:00:OW: Baddie Hide 9
+S:0518:00:OW: Baddie Hide 10
+S:0563:09:OW: Battle Area
+S:0563:19:OW: Battle Area Zelda
+S:0563:29:OW: Battle Area Zelda 2
+S:0201:00:OW: Link Sprite
+S:0202:21:OW: Link Invisible
+S:0563:00:OW: Sprites Pac-Man Mode
+S:07fe:03:Sound: Cool Music Hack 1
+S:07fb:03:Sound: Cool Music Hack 2
+S:07fd:01:Sound: Cool Music Hack 3
+S:00ed:01:Sound: Toggle Static
+S:00ee:01:Sound: Toggle Mute Fall In Hole
+S:00ef:01:Sound: Toggle Cool Disolve 1
+S:07db:04:Unknown: Got Trophy?
+S:07db:04:Unknown: Potion?
+S:079a:40:Unknown: Potion?
+S:076c:00:Unknown: Weird??
+S:0736:00:Unknown: Weird??
+S:0737:00:Unknown: Weird??
