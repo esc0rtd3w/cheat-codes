@@ -6,4 +6,8 @@ S009e:43:Flamethrower
 S:009e:42:Spread Shot
 S:009e:3d:Spread Grenades w/Fire Button
 S009e:3e:Shield
-S:009e:3f:??
+S:05f0:ff:Shield Barrier 1
+S:0607:ff:Shield Barrier 2
+S:061e:ff:Shield Barrier 3
+S:031b:00:Shield/Gun Sound OFF 1
+S:0302:00:Shield/Gun Sound OFF 2
