@@ -33,6 +33,8 @@ S00d0:01:Jump Spell Activated
 S:0796:10:Downward Stab Only
 S:0796:0f:Upward Stab Only
 S0796:ff:Upward/Downward Stab
+S05e0:06:Counter: P-Bag/Potion 1
+S05df:06:Counter: P-Bag/Potion 2
 S:0755:01:Auto Experience For Next
 S:0775:10:Next XP Multiplier??
 S0518:03:Invincible
@@ -44,7 +46,6 @@ S:01ef:50:Fall Through Floor
 S:00bb:00:Bubbles Toggle
 S:00b5:02:Glitch Town
 S:0707:02:Background Music Modifier
-S:00f7:80:Movement Modifier
 S:0706:01:Torches Disappear Zelda
 S:057d:03:Height Hack
 S:7d8f:04:Walk Over Spider
