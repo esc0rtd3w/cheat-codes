@@ -1,0 +1,15 @@
+S:0302:00:Timer 1st Digit
+S:0304:00:Timer 2nd Digit
+S0305:00:Timer 3rd Digit
+S0391:60:Health Bar Player
+S0342:09:Stars
+S0323:09:Hearts Digit 1
+S0324:09:Hearts Digit 2
+S:03c3:07:Cant Get Up
+S:0391:28:Cant Fall Down
+S:00bc:01:Never Tired
+S:0398:60:Health Bar Opponent
+S:03ca:02:Fall Count Opponent
+S:03d1:05:Fall Count Max 1 Opponent
+S:03c9:20:Fall Count Max 2 Opponent
+SC:0398:00:60:Opponent One Hit
