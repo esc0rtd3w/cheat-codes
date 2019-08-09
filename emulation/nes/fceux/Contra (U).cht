@@ -1,0 +1,18 @@
+S003a:09:Continues
+S:003b:01:Go To Next Stage
+S0032:09:P1 Lives
+S:0038:01:Kill P1
+S00ae:ff:P1 Invincible
+S:00aa:00:P1 Weapon Normal
+S:00aa:01:P1 Weapon Machine Gun
+S:00aa:02:P1 Weapon Fireball
+S:00aa:03:P1 Weapon Spreadshot
+S:00aa:04:P1 Weapon Laser
+S0033:09:P2 Lives
+S:0039:01:Kill P2
+S00af:ff:P2 Invincible
+S:00ab:00:P2 Weapon Normal
+S:00ab:01:P2 Weapon Machine Gun
+S:00ab:02:P2 Weapon Fireball
+S:00ab:03:P2 Weapon Spreadshot
+S:00ab:04:P2 Weapon Laser
