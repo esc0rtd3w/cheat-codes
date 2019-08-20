@@ -1,0 +1,120 @@
+S00c5:ff:Max HP
+S00c6:ff:Max MP
+S00bc:ff:Max Gold 1
+S00bd:ff:Max Gold 2
+S:00ba:ff:Experience Points 1
+S:00bb:ff:Experience Points 2
+S:00c7:ff:Player Level
+S:00c8:ff:Stat Strength
+S:00c9:ff:Stat Agility
+S:00ca:ff:Stat Maximum HP
+S:00cb:ff:Stat Maximum MP
+S:00cc:ff:Stat Attack Power
+S:00cd:ff:Stat Defense Power
+S00be:ff:Multi Erdrick/Silver Shield
+S00bf:09:Item Magic Keys
+S00c0:09:Item Herb
+S:00c1:01:Item Slot 1 Torch
+S:00c1:02:Item Slot 1 Fairy Water
+S:00c1:03:Item Slot 1 Wings
+S:00c1:04:Item Slot 1 Dragons Scale
+S:00c1:05:Item Slot 1 Fairy Flute
+S00c1:06:Item Slot 1 Fighters Ring
+S:00c1:07:Item Slot 1 Erdricks Token
+S:00c1:08:Item Slot 1 Gwaelins Love
+S:00c1:09:Item Slot 1 Cursed Belt
+S:00c1:0a:Item Slot 1 Silver Harp
+S:00c1:0b:Item Slot 1 Death Necklace
+S:00c1:0c:Item Slot 1 Stones of Sunlight
+S:00c1:0d:Item Slot 1 Staff of Rain
+S:00c2:01:Item Slot 2 Torch
+S:00c2:02:Item Slot 2 Fairy Water
+S:00c2:03:Item Slot 2 Wings
+S:00c2:04:Item Slot 2 Dragons Scale
+S:00c2:05:Item Slot 2 Fairy Flute
+S:00c2:06:Item Slot 2 Fighters Ring
+S00c2:07:Item Slot 2 Erdricks Token
+S:00c2:08:Item Slot 2 Gwaelins Love
+S:00c2:09:Item Slot 2 Cursed Belt
+S:00c2:0a:Item Slot 2 Silver Harp
+S:00c2:0b:Item Slot 2 Death Necklace
+S:00c2:0c:Item Slot 2 Stones of Sunlight
+S:00c2:0d:Item Slot 2 Staff of Rain
+S:00c3:01:Item Slot 3 Torch
+S:00c3:02:Item Slot 3 Fairy Water
+S:00c3:03:Item Slot 3 Wings
+S:00c3:04:Item Slot 3 Dragons Scale
+S:00c3:05:Item Slot 3 Fairy Flute
+S:00c3:06:Item Slot 3 Fighters Ring
+S:00c3:07:Item Slot 3 Erdricks Token
+S:00c3:08:Item Slot 3 Gwaelins Love
+S:00c3:09:Item Slot 3 Cursed Belt
+S:00c3:0a:Item Slot 3 Silver Harp
+S:00c3:0b:Item Slot 3 Death Necklace
+S:00c3:0c:Item Slot 3 Stones of Sunlight
+S00c3:0d:Item Slot 3 Staff of Rain
+S:008e:02:Tile Location X
+S:008f:02:Tile Location Y
+S:008e:01:Tile Location X King
+S:008f:01:Tile Location Y King
+S:00e0:00:Tile Type Grass
+S:00e0:04:Tile Type Floor
+S:00e0:05:Tile Type Stairs
+S:00e0:0b:Tile Type Trees
+S:00e0:0c:Tile Type Treasure Chest
+S:00e0:0d:Tile Type Electric Wall
+S:00e0:0e:Tile Type Wall Yellow
+S:00e0:0f:Tile Type Water
+S:00e0:10:Tile Type Block Wall
+S:00e0:11:Tile Type Door
+S:00e0:14:Tile Type Inn
+S:00e0:00:Enemy Blue Slime
+S:00e0:01:Enemy Red Slime
+S:00e0:02:Enemy Drakee
+S:00e0:03:Enemy Ghost
+S:00e0:04:Enemy Magician
+S:00e0:05:Enemy Magidrakee
+S:00e0:06:Enemy Scorpion
+S:00e0:07:Enemy Drvin
+S:00e0:08:Enemy Poltergeist
+S:00e0:09:Enemy Droll
+S:00e0:0a:Enemy Drakeema
+S:00e0:0b:Enemy Skeleton
+S:00e0:0c:Enemy Warlock
+S:00e0:0d:Enemy Metal Scorpion
+S:00e0:0e:Enemy Wolf
+S:00e0:0f:Enemy Wraith
+S:00e0:10:Enemy Metal Slime
+S:00e0:11:Enemy Specter
+S:00e0:12:Enemy Wolflord
+S:00e0:13:Enemy Druinlord
+S:00e0:14:Enemy Drollmagi
+S:00e0:15:Enemy Wyvern
+S:00e0:16:Enemy Rogue Scorpion
+S:00e0:17:Enemy Wraith Knight
+S:00e0:18:Enemy Golem
+S:00e0:19:Enemy Goldman
+S:00e0:1a:Enemy Knight
+S:00e0:1b:Enemy Magiwyvern
+S:00e0:1c:Enemy Demon Knight
+S:00e0:1d:Enemy Werewolf
+S:00e0:1e:Enemy Green Dragon
+S:00e0:1f:Enemy Starwyvern
+S:00e0:20:Enemy Wizard
+S:00e0:21:Enemy Axe Knight
+S:00e0:22:Enemy Blue Dragon
+S:00e0:23:Enemy Stoneman
+S:00e0:24:Enemy Armored Knight
+S:00e0:25:Enemy Red Dragon
+S:00e0:26:Enemy Dragonlord
+S:00e0:27:Enemy Dragonlord Final
+S:00e0:28:Enemy Glitch
+S:0090:00:Move Sprites
+S:0091:00:Unknown Location
+S:008d:00:Unknown Timer 1
+S:00be:40:Weapon Club
+S:00be:60:Weapon Copper Sword
+S:00be:80:Weapon Hand Axe
+S:00be:a0:Weapon Broad Sword
+S:00be:c0:Weapon Flame Sword
+S:00be:e0:Weapon Erdricks Sword
